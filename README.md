@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... On Heroku https://eventbritesacha.herokuapp.com/
